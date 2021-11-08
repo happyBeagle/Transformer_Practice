@@ -9,6 +9,21 @@
  
 > Although the Transformer is the most famous model for it's high perfomance in Deep Learning fields, I have been implementing without deep understanding. This repository is for studying the `Transformer`.  
 
+```
+$> tree -d
+.
+├── /config
+│     └── configuration files 
+├── /modules
+│     ├── attention_layer.py
+│     ├── encoder_layer.py
+│     ├── decoder_layer.py
+│     ├── transformer.py
+│     └── utils.py
+├── train.py
+└── evaluation.py
+```   
+
 ## 🧁 What Is Transformer?   
 * TODO
 
